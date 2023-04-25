@@ -19,18 +19,47 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7e6287c-6997-4c9f-ae80-28834c456bc9" name="Default Changelist" comment="Instalado flak8" />
+    <list default="true" id="d7e6287c-6997-4c9f-ae80-28834c456bc9" name="Default Changelist" comment="Instalado flak8">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/ga.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/ga.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/curso-django.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/curso-django.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="main" />
+              </list>
+            </value>
+          </entry>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="PUSH_TAGS">
       <GitPushTagMode>
         <option name="argument" value="--tags" />
         <option name="title" value="All" />
       </GitPushTagMode>
+    </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -69,7 +98,21 @@
       <option name="project" value="LOCAL" />
       <updated>1681385006119</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Instalado flak8">
+      <created>1681385967072</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681385967072</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Instalado flak8">
+      <created>1681386077996</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1681386077996</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -82,19 +125,25 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Instalado flak8" />
-    <option name="LAST_COMMIT_MESSAGE" value="Instalado flak8" />
+    <MESSAGE value="Instalado dependencias flak8" />
+    <option name="LAST_COMMIT_MESSAGE" value="Instalado dependencias flak8" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1681385102834">
+    <state x="463" y="139" key="FileChooserDialogImpl" timestamp="1682423668190">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1681385102834" />
-    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1681384981045">
+    <state x="463" y="139" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1682423668190" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2" timestamp="1682425169216">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1681384981045" />
+    <state x="275" y="117" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1682425169216" />
+    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1682425984126">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="298" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1682425984126" />
   </component>
 </project>
